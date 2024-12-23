@@ -1,0 +1,7 @@
+__pycache__/
+.idea
+static
+venv/
+.venv
+.env
+api.json
